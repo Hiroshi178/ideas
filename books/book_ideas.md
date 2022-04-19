@@ -1,6 +1,6 @@
 # Ideas for new book projects
 
-- [x] Hotubbing by tutorials
+- [] Hotubbing by tutorials
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
